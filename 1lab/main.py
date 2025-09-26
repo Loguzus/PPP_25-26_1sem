@@ -1,4 +1,2 @@
-
-
-if __name__ == "__main__":
-    pass # Ваш код здесь
+from random import randint
+matrix
